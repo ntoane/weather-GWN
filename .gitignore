@@ -1,0 +1,14 @@
+.DS_Store
+Engine/__pycache__
+Evaluation/__pycache__
+HPO/__pycache__
+Models/__pycache__
+Utils/__pycache__
+Utils/__pycache__
+Train/__pycache__
+Data/graph_stations.csv
+Data/Save/
+Data/all_stations_null.csv
+Garage/HPO Models/GWN/
+Garage/Final Models/GWN/
+Results/GWN/
