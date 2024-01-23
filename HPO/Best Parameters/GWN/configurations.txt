@@ -1,0 +1,7 @@
+This is the best configuration [32, 0.1, 42, 24, 4, 60] with an MSE of 0.006362815379725837
+Batch Size - 32
+Dropout - 0.1
+Hidden Units - 42
+Input sequence - 24
+Number of layers - 4
+Epoch - 60
